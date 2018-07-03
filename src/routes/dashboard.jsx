@@ -11,21 +11,21 @@ const dashboardRoutes = [
   {
     path: "/home",
     sidebarName: "Home",
-    navbarName: "Home page",
+    navbarName: "Home",
     icon: Dashboard,
     component: DashboardPage
   },
   {
     path: "/stats",
     sidebarName: "Statistics",
-    navbarName: "Statistics page",
+    navbarName: "Statistics",
     icon: ContentPaste, // TODO: replace icon
     component: TableList // TODO: replace by statistics page component
   },
   {
     path: "/admin",
     sidebarName: "Admin",
-    navbarName: "Admin page",
+    navbarName: "Admin",
     icon: Person,
     component: UserProfile // TODO: replace by admin page component
   },
