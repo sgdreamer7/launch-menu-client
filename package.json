@@ -1,7 +1,7 @@
 {
-  "name": "material-dashboard-react",
+  "name": "launch-menu-client",
   "version": "1.2.0",
-  "description": "Material Dashboard React. Coded by Creative Tim",
+  "description": "Launch Menu App Client",
   "private": false,
   "main": "index.js",
   "dependencies": {
@@ -30,13 +30,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
+    "url": "git+https://github.com/sgdreamer7/launch-menu-client.git"
   },
   "keywords": [],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "author": "Vladimir Scherbina <vns.scherbina@gmail.com> (vns.scherbina@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
+    "url": "https://github.com/sgdreamer7/launch-menu-client/issues"
   },
-  "homepage": "https://creativetimofficial.github.io/material-dashboard-react/#/dashboard"
+  "homepage": ""
 }
